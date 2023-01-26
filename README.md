@@ -41,3 +41,7 @@ Faça o deploy!
 ---------------
 
 Ao finalizar, faça o deploy no lugar que te for confortável (exemplo: Vercel, Netlify, Heroku, Amazon EC2, etc)
+
+
+========================
+Use PX to Rem converter: https://nekocalc.com/px-to-rem-converter
