@@ -1,4 +1,4 @@
-import styled  from "styled-components";
+import styled from "styled-components";
 
 export const Container = styled.div`
     width:min-width:100%;
@@ -10,18 +10,27 @@ export const Content = styled.div`
     justify-content:space-between;
     margin:0 1.25rem 0  1.25rem;
     align-items:center;
-    padding: 0.25rem 0 0.25rem 0;
+    padding: 1rem 0 1rem 0;
 `
 
 export const Car = styled.div`
-    // width: 52px;
-    // height: 26px;
+    width: 15vw;
 
     background: #FFFFFF;
     border-radius: 8px;
-    padding: 3px 3px;
+    padding: 5px 10px;
 
     display:flex;
     align-items:center;
-    justify-content:center;
+    justify-content:space-between;
+   
 `
+
+export const ValueCar = styled.div`
+font-size:1rem;    
+line-height:50%
+`
+
+
+
+
